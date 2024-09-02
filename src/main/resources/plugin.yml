@@ -1,0 +1,4 @@
+name: QCore
+version: '0.1'
+main: www.mgworlds.ru.QCore
+api-version: '1.20'
