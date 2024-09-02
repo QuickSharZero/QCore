@@ -1,1 +1,1 @@
-QCore will be used in my projects soon
+## QCore will be used in my projects soon
